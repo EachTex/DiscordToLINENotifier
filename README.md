@@ -10,3 +10,13 @@ DiscordからLINE Notifyにリマインドを送信するプログラムです�
 discord.py==2.0.1
 py-cord==2.5.0
 ```
+
+# Usage:
+[ソースコード](https://github.com/EachTex/DiscordToLINENotifier/blob/main/main.py)をCogsフォルダに追加し、  
+コード内の "channel_id" を通知先Discordチャンネル(※)のIDに指定してください。
+また、カレントディレクトリ内に  
+- "remind_line.json" (\*LINE Notifyのトークンを保存するファイル) と  
+- "remind.json" (\*リマインドの内容を保存するファイル)  
+を作成してください。  
+  
+※: LINE Notifyを使用しない場合に使用します。
