@@ -1,3 +1,6 @@
+# Caution
+2025/03/31以降、LINE Notifyが正式にサービスを終了することを発表したため、このプログラムは使用できなくなります。  
+
 # DiscordToLINENotifier
 DiscordからLINE Notifyにリマインドを送信するプログラムです。
 
